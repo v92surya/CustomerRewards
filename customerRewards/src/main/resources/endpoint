@@ -1,0 +1,3 @@
+Endpoint details for calculating rewards based on customer id
+
+<IP>:8080/customer/:customerId/rewards
